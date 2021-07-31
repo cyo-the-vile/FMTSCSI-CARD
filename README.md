@@ -20,6 +20,8 @@ The voltage receptables are labeled if you wanted to use a mechanical hard drive
 Please contact me on twitter if there is any questions or trouble  @cyothevile
 
 
+To get PCB created, take the V1 Card.zip to a factory.
+
 
 ＃FMTSCSI-CARD
 ハードドライブなどの内蔵SCSIデバイスを使用するPCB。
